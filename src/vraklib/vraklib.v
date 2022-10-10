@@ -1,0 +1,5 @@
+module vraklib
+
+struct VRakLib {
+
+}
